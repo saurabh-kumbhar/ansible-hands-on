@@ -1,0 +1,6 @@
+-
+  name: Ping to Target Server
+  hosts: all
+  tasks:
+    - name: Ping Test
+      ping: 

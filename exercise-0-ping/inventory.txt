@@ -1,0 +1,2 @@
+target1 ansible_host=10.10.32.240 ansible_ssh_pass=TARGET1_PASS
+target2 ansible_host=10.10.46.32 ansible_ssh_pass=TARGET2_PASS
